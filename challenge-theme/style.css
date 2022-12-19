@@ -1,9 +1,0 @@
-/*
-Theme Name: Creed Code Challenge
-Author: Creed Interactive | Moacir Sant'anna
-Author URI: http://www.creedinteractive.com
-Description: This site was built to be a code challenge for Creed Interactive
-*/
-
-/* Do not change this file directly. Change its SCSS at src/scss/style.scss and run Gulp */
-@import url('dist/css/style.css');
