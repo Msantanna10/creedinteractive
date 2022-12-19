@@ -26,7 +26,7 @@ The plugin creates a custom options page so you can decide about the synchroniza
 
 ## Podcasts Post Type
 ![Post Type](https://i.imgur.com/fX1l33c.jpg)
-The plugin creates a custom post type called "podcasts" and inserts all podcasts from the JSON file as posts. In addition to that, two custom taxonomies are created and all images are added to the site's media library with custom sizes to avoid requests to external sources.
+The plugin creates a custom post type called "Podcasts" and inserts all podcasts from the JSON file as posts. In addition to that, two custom taxonomies are created and all images are added to the site's media library with custom sizes to avoid requests to external sources.
 
 ## Custom Endpoint for the REST API
 ![Custom Endpoint](https://i.imgur.com/KAjGNsh.jpg)
