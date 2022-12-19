@@ -30,7 +30,7 @@ The plugin creates a custom post type called "Podcasts" and inserts all podcasts
 
 ## Custom Endpoint for the REST API
 ![Custom Endpoint](https://i.imgur.com/KAjGNsh.jpg)
-Everything gets even better! A custom route is created and returns a real-time JSON of posts created from the file. It works with GET parameters to limit the number of podcasts and to work with pagination.
+Everything gets even better! A custom route is created and returns a real-time JSON of posts created from the file. It works with GET parameters to limit the number of podcasts and also to work with pagination.
 Example:
 * `https://domamo.com.br/creedinteractive/wp-json/podcasts/v1/all` will return all podcasts
 * `https://domamo.com.br/creedinteractive/wp-json/podcasts/v1/all?count=5` will return the last 5 podcasts
