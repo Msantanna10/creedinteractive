@@ -1,5 +1,5 @@
 # Creed Interactive | Code Challenge
-In this code challenge, we created an awesome plugin to read data from a JSON file and add them to a custom post type and custom taxonomies.
+In this code challenge, I have created an awesome plugin to read data from a JSON file and add them to a custom post type and custom taxonomies.
 
 ## Demo
 To make everything easier, I'm providing a [demo](https://domamo.com.br/creedinteractive/) where the theme already works with the plugin. You can [login](https://domamo.com.br/creedinteractive/wp-admin) as administrator using "creedinteractive" as username and password.
