@@ -21,8 +21,8 @@ To update the theme styles:
 ## Global Options
 ![Global options](https://i.imgur.com/izlrqiC.jpg)
 The plugin creates a custom options page so you can decide about the synchronization behavior. Here are the options:
-**1 - I'd like to force podcasts from the JSON:** Podcasts can be deleted, but they will remain in the trash. However, once you permanently delete them, they will be re-added from the JSON file.
-**2 - I'd like to be able to delete them permanently:**  As the name suggests, by activating this option you will be able to delete podcasts permanently and they will not be re-added.
+* **1 - I'd like to force podcasts from the JSON:** Podcasts can be deleted, but they will remain in the trash. However, once you permanently delete them, they will be re-added from the JSON file.
+* **2 - I'd like to be able to delete them permanently:**  As the name suggests, by activating this option you will be able to delete podcasts permanently and they will not be re-added.
 
 ## Podcasts Post Type
 ![Post Type](https://i.imgur.com/fX1l33c.jpg)
